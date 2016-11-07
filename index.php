@@ -1,4 +1,5 @@
 <?php
+	ini_set('display_errors', '1');
 // Version
 define('VERSION', '2.3.0.2');
 
